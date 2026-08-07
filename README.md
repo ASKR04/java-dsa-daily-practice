@@ -27,3 +27,4 @@ mvn exec:java
 | Date | Problem | Topic |
 | --- | --- | --- |
 | 2026-08-06 | Two Sum | Hash Map |
+| 2026-08-06 | Best Time to Buy and Sell Stock | Arrays |
