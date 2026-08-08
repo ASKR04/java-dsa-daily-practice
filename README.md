@@ -30,3 +30,4 @@ mvn exec:java
 | 2026-08-06 | Best Time to Buy and Sell Stock | Arrays |
 | 2026-08-07 | Contains Duplicate | Arrays, Hash Set |
 | 2026-08-07 | Valid Anagram | Hash Map, Frequency Counting |
+| 2026-08-08 | Valid Palindrome | Two Pointers |
