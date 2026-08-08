@@ -29,3 +29,4 @@ mvn exec:java
 | 2026-08-06 | Two Sum | Hash Map |
 | 2026-08-06 | Best Time to Buy and Sell Stock | Arrays |
 | 2026-08-07 | Contains Duplicate | Arrays, Hash Set |
+| 2026-08-07 | Valid Anagram | Hash Map, Frequency Counting |
