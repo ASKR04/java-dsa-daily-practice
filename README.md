@@ -34,3 +34,4 @@ mvn exec:java
 | 2026-08-08 | Merge Sorted Array | Two Pointers, In-Place Merge |
 | 2026-08-09 | Move Zeroes | Two Pointers, In-Place Array |
 | 2026-08-10 | Remove Duplicates from Sorted Array | Two Pointers, In-Place Array |
+| 2026-08-10 | Remove Element | Two Pointers, In-Place Array |
