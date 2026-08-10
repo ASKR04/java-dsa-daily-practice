@@ -32,3 +32,4 @@ mvn exec:java
 | 2026-08-07 | Valid Anagram | Hash Map, Frequency Counting |
 | 2026-08-08 | Valid Palindrome | Two Pointers |
 | 2026-08-08 | Merge Sorted Array | Two Pointers, In-Place Merge |
+| 2026-08-09 | Move Zeroes | Two Pointers, In-Place Array |
