@@ -35,3 +35,4 @@ mvn exec:java
 | 2026-08-09 | Move Zeroes | Two Pointers, In-Place Array |
 | 2026-08-10 | Remove Duplicates from Sorted Array | Two Pointers, In-Place Array |
 | 2026-08-10 | Remove Element | Two Pointers, In-Place Array |
+| 2026-08-11 | Squares of a Sorted Array | Two Pointers |
