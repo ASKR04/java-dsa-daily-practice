@@ -38,3 +38,4 @@ mvn exec:java
 | 2026-08-11 | Squares of a Sorted Array | Two Pointers |
 | 2026-08-11 | Two Sum II - Input Array Is Sorted | Two Pointers |
 | 2026-08-12 | Maximum Average Subarray I | Sliding Window |
+| 2026-08-13 | Contains Duplicate II | Sliding Window, Hash Set |
