@@ -42,3 +42,4 @@ mvn exec:java
 | 2026-08-13 | Minimum Recolors to Get K Consecutive Black Blocks | Sliding Window |
 | 2026-08-14 | Minimum Size Subarray Sum | Sliding Window |
 | 2026-08-14 | Longest Substring Without Repeating Characters | Sliding Window, Hash Map |
+| 2026-08-15 | Max Consecutive Ones III | Sliding Window |
