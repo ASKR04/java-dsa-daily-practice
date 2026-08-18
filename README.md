@@ -45,3 +45,4 @@ mvn exec:java
 | 2026-08-15 | Max Consecutive Ones III | Sliding Window |
 | 2026-08-15 | Longest Repeating Character Replacement | Sliding Window, Frequency Counting |
 | 2026-08-17 | Valid Parentheses | Stack |
+| 2026-08-17 | Backspace String Compare | Stack |
