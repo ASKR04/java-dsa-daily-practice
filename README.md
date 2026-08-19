@@ -47,3 +47,4 @@ mvn exec:java
 | 2026-08-17 | Valid Parentheses | Stack |
 | 2026-08-17 | Backspace String Compare | Stack |
 | 2026-08-18 | Implement Queue using Stacks | Stack, Queue |
+| 2026-08-18 | Min Stack | Stack, Design |
