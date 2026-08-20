@@ -49,3 +49,4 @@ mvn exec:java
 | 2026-08-18 | Implement Queue using Stacks | Stack, Queue |
 | 2026-08-18 | Min Stack | Stack, Design |
 | 2026-08-19 | Next Greater Element I | Stack, Hash Map |
+| 2026-08-20 | Daily Temperatures | Stack |
