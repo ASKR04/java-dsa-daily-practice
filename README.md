@@ -54,3 +54,4 @@ mvn exec:java
 | 2026-08-24 | Binary Search | Binary Search |
 | 2026-08-25 | Search Insert Position | Binary Search |
 | 2026-08-25 | First Bad Version | Binary Search |
+| 2026-08-26 | Sqrt(x) | Binary Search |
