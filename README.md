@@ -53,3 +53,4 @@ mvn exec:java
 | 2026-08-21 | Evaluate Reverse Polish Notation | Stack |
 | 2026-08-24 | Binary Search | Binary Search |
 | 2026-08-25 | Search Insert Position | Binary Search |
+| 2026-08-25 | First Bad Version | Binary Search |
