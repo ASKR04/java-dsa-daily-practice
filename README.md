@@ -56,3 +56,4 @@ mvn exec:java
 | 2026-08-25 | First Bad Version | Binary Search |
 | 2026-08-26 | Sqrt(x) | Binary Search |
 | 2026-08-27 | Find Peak Element | Binary Search |
+| 2026-08-27 | Search in Rotated Sorted Array | Binary Search |
