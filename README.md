@@ -57,3 +57,4 @@ mvn exec:java
 | 2026-08-26 | Sqrt(x) | Binary Search |
 | 2026-08-27 | Find Peak Element | Binary Search |
 | 2026-08-27 | Search in Rotated Sorted Array | Binary Search |
+| 2026-08-30 | Find First and Last Position of Element in Sorted Array | Binary Search |
