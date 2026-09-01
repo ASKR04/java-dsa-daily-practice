@@ -60,3 +60,4 @@ mvn exec:java
 | 2026-08-30 | Find First and Last Position of Element in Sorted Array | Binary Search |
 | 2026-08-31 | Koko Eating Bananas | Binary Search |
 | 2026-08-31 | Capacity To Ship Packages Within D Days | Binary Search |
+| 2026-09-01 | Search a 2D Matrix | Binary Search |
