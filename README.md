@@ -63,3 +63,4 @@ mvn exec:java
 | 2026-09-01 | Search a 2D Matrix | Binary Search |
 | 2026-09-01 | Find Minimum in Rotated Sorted Array | Binary Search |
 | 2026-09-02 | Find the Smallest Divisor Given a Threshold | Binary Search |
+| 2026-09-02 | Minimum Number of Days to Make m Bouquets | Binary Search |
