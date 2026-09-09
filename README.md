@@ -68,3 +68,4 @@ mvn exec:java
 | 2026-09-03 | Split Array Largest Sum | Binary Search |
 | 2026-09-04 | Reverse Linked List | Linked List |
 | 2026-09-08 | Middle of the Linked List | Linked List |
+| 2026-09-09 | Linked List Cycle | Linked List |
