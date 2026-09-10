@@ -69,3 +69,4 @@ mvn exec:java
 | 2026-09-04 | Reverse Linked List | Linked List |
 | 2026-09-08 | Middle of the Linked List | Linked List |
 | 2026-09-09 | Linked List Cycle | Linked List |
+| 2026-09-10 | Remove Nth Node From End of List | Linked List |
