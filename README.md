@@ -74,3 +74,4 @@ mvn exec:java
 | 2026-09-11 | Palindrome Linked List | Linked List |
 | 2026-09-13 | Remove Linked List Elements | Linked List |
 | 2026-09-14 | Intersection of Two Linked Lists | Linked List |
+| 2026-09-14 | Odd Even Linked List | Linked List |
