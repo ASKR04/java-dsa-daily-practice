@@ -77,3 +77,4 @@ mvn exec:java
 | 2026-09-14 | Odd Even Linked List | Linked List |
 | 2026-09-15 | Add Two Numbers | Linked List |
 | 2026-09-15 | Swap Nodes in Pairs | Linked List |
+| 2026-09-16 | Rotate List | Linked List |
