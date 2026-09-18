@@ -80,3 +80,4 @@ mvn exec:java
 | 2026-09-16 | Rotate List | Linked List |
 | 2026-09-17 | Partition List | Linked List |
 | 2026-09-17 | Reorder List | Linked List |
+| 2026-09-18 | Sort List | Linked List |
