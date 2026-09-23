@@ -83,3 +83,4 @@ mvn exec:java
 | 2026-09-18 | Sort List | Linked List |
 | 2026-09-18 | Copy List with Random Pointer | Linked List |
 | 2026-09-21 | Linked List Cycle II | Linked List |
+| 2026-09-22 | Maximum Depth of Binary Tree | Binary Tree |
