@@ -85,3 +85,4 @@ mvn exec:java
 | 2026-09-21 | Linked List Cycle II | Linked List |
 | 2026-09-22 | Maximum Depth of Binary Tree | Binary Tree |
 | 2026-09-23 | Same Tree | Binary Tree |
+| 2026-09-24 | Invert Binary Tree | Binary Tree |
