@@ -88,3 +88,4 @@ mvn exec:java
 | 2026-09-24 | Invert Binary Tree | Binary Tree |
 | 2026-09-24 | Symmetric Tree | Binary Tree |
 | 2026-09-25 | Path Sum | Binary Tree |
+| 2026-09-27 | Balanced Binary Tree | Binary Tree |
