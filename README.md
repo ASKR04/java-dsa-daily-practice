@@ -90,3 +90,4 @@ mvn exec:java
 | 2026-09-25 | Path Sum | Binary Tree |
 | 2026-09-27 | Balanced Binary Tree | Binary Tree |
 | 2026-09-28 | Binary Tree Level Order Traversal | Binary Tree |
+| 2026-09-29 | Diameter of Binary Tree | Binary Tree |
