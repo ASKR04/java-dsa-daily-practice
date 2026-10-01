@@ -92,3 +92,4 @@ mvn exec:java
 | 2026-09-28 | Binary Tree Level Order Traversal | Binary Tree |
 | 2026-09-29 | Diameter of Binary Tree | Binary Tree |
 | 2026-09-30 | Binary Tree Right Side View | Binary Tree |
+| 2026-10-01 | Lowest Common Ancestor of a Binary Tree | Binary Tree |
