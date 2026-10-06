@@ -95,3 +95,4 @@ mvn exec:java
 | 2026-10-01 | Lowest Common Ancestor of a Binary Tree | Binary Tree |
 | 2026-10-01 | Validate Binary Search Tree | Binary Search Tree |
 | 2026-10-05 | Kth Smallest Element in a BST | Binary Search Tree |
+| 2026-10-05 | Lowest Common Ancestor of a BST | Binary Search Tree |
