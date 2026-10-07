@@ -98,3 +98,4 @@ mvn exec:java
 | 2026-10-05 | Lowest Common Ancestor of a BST | Binary Search Tree |
 | 2026-10-06 | Insert into a Binary Search Tree | Binary Search Tree |
 | 2026-10-06 | Delete Node in a Binary Search Tree | Binary Search Tree |
+| 2026-10-07 | Binary Search Tree Iterator | Binary Search Tree |
