@@ -100,3 +100,4 @@ mvn exec:java
 | 2026-10-06 | Delete Node in a Binary Search Tree | Binary Search Tree |
 | 2026-10-07 | Binary Search Tree Iterator | Binary Search Tree |
 | 2026-10-07 | Construct BST from Preorder Traversal | Binary Search Tree |
+| 2026-10-14 | Last Stone Weight | Heap / Priority Queue |
