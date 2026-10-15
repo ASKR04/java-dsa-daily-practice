@@ -101,3 +101,4 @@ mvn exec:java
 | 2026-10-07 | Binary Search Tree Iterator | Binary Search Tree |
 | 2026-10-07 | Construct BST from Preorder Traversal | Binary Search Tree |
 | 2026-10-14 | Last Stone Weight | Heap / Priority Queue |
+| 2026-10-14 | Kth Largest Element in a Stream | Heap / Priority Queue |
