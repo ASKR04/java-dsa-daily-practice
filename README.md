@@ -103,3 +103,4 @@ mvn exec:java
 | 2026-10-14 | Last Stone Weight | Heap / Priority Queue |
 | 2026-10-14 | Kth Largest Element in a Stream | Heap / Priority Queue |
 | 2026-10-15 | Top K Frequent Elements | Heap / Priority Queue |
+| 2026-10-15 | K Closest Points to Origin | Heap / Priority Queue |
