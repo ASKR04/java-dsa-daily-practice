@@ -105,3 +105,4 @@ mvn exec:java
 | 2026-10-15 | Top K Frequent Elements | Heap / Priority Queue |
 | 2026-10-15 | K Closest Points to Origin | Heap / Priority Queue |
 | 2026-10-16 | Reorganize String | Heap / Priority Queue |
+| 2026-10-16 | Task Scheduler | Heap / Priority Queue |
