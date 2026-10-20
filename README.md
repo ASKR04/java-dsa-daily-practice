@@ -107,3 +107,4 @@ mvn exec:java
 | 2026-10-16 | Reorganize String | Heap / Priority Queue |
 | 2026-10-16 | Task Scheduler | Heap / Priority Queue |
 | 2026-10-19 | Find Median from Data Stream | Heap / Priority Queue |
+| 2026-10-20 | Find if Path Exists in Graph | Graph |
