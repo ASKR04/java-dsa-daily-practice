@@ -111,3 +111,4 @@ mvn exec:java
 | 2026-10-21 | Number of Connected Components in an Undirected Graph | Graph |
 | 2026-10-21 | Number of Islands | Graph |
 | 2026-10-22 | Clone Graph | Graph |
+| 2026-10-22 | Rotting Oranges | Graph |
