@@ -114,3 +114,4 @@ mvn exec:java
 | 2026-10-22 | Rotting Oranges | Graph |
 | 2026-10-23 | Course Schedule | Graph |
 | 2026-10-24 | Course Schedule II | Graph |
+| 2026-10-25 | Redundant Connection | Graph |
