@@ -116,3 +116,4 @@ mvn exec:java
 | 2026-10-24 | Course Schedule II | Graph |
 | 2026-10-25 | Redundant Connection | Graph |
 | 2026-10-26 | Network Delay Time | Graph |
+| 2026-10-26 | Cheapest Flights Within K Stops | Graph |
