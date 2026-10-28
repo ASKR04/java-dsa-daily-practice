@@ -118,3 +118,4 @@ mvn exec:java
 | 2026-10-26 | Network Delay Time | Graph |
 | 2026-10-26 | Cheapest Flights Within K Stops | Graph |
 | 2026-10-27 | Minimum Cost to Connect All Points | Graph |
+| 2026-10-27 | Path With Minimum Effort | Graph |
