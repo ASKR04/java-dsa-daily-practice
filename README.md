@@ -120,3 +120,4 @@ mvn exec:java
 | 2026-10-27 | Minimum Cost to Connect All Points | Graph |
 | 2026-10-27 | Path With Minimum Effort | Graph |
 | 2026-10-28 | Subsets | Backtracking |
+| 2026-10-28 | Permutations | Backtracking |
