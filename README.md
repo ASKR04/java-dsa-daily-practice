@@ -124,3 +124,4 @@ mvn exec:java
 | 2026-10-29 | Combination Sum | Backtracking |
 | 2026-10-29 | Letter Combinations of a Phone Number | Backtracking |
 | 2026-10-30 | Generate Parentheses | Backtracking |
+| 2026-10-30 | Word Search | Backtracking |
