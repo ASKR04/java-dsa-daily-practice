@@ -125,3 +125,4 @@ mvn exec:java
 | 2026-10-29 | Letter Combinations of a Phone Number | Backtracking |
 | 2026-10-30 | Generate Parentheses | Backtracking |
 | 2026-10-30 | Word Search | Backtracking |
+| 2026-11-02 | Climbing Stairs | Dynamic Programming |
