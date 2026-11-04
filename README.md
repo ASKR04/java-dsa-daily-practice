@@ -127,3 +127,4 @@ mvn exec:java
 | 2026-10-30 | Word Search | Backtracking |
 | 2026-11-02 | Climbing Stairs | Dynamic Programming |
 | 2026-11-03 | Min Cost Climbing Stairs | Dynamic Programming |
+| 2026-11-03 | House Robber | Dynamic Programming |
