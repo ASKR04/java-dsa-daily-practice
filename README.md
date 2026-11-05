@@ -129,3 +129,4 @@ mvn exec:java
 | 2026-11-03 | Min Cost Climbing Stairs | Dynamic Programming |
 | 2026-11-03 | House Robber | Dynamic Programming |
 | 2026-11-04 | House Robber II | Dynamic Programming |
+| 2026-11-05 | Coin Change | Dynamic Programming |
