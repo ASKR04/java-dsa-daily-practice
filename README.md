@@ -131,3 +131,4 @@ mvn exec:java
 | 2026-11-04 | House Robber II | Dynamic Programming |
 | 2026-11-05 | Coin Change | Dynamic Programming |
 | 2026-11-06 | Unique Paths | Dynamic Programming |
+| 2026-11-06 | Longest Increasing Subsequence | Dynamic Programming, Binary Search |
