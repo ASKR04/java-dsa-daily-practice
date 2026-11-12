@@ -135,3 +135,4 @@ mvn exec:java
 | 2026-11-09 | Partition Equal Subset Sum | Dynamic Programming |
 | 2026-11-09 | Decode Ways | Dynamic Programming |
 | 2026-11-10 | Longest Common Subsequence | Dynamic Programming |
+| 2026-11-12 | Edit Distance | Dynamic Programming |
