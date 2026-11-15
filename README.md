@@ -138,3 +138,4 @@ mvn exec:java
 | 2026-11-12 | Edit Distance | Dynamic Programming |
 | 2026-11-13 | Word Break | Dynamic Programming |
 | 2026-11-14 | Maximum Subarray | Dynamic Programming, Array |
+| 2026-11-14 | Maximum Product Subarray | Dynamic Programming, Array |
