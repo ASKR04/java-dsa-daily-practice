@@ -143,3 +143,4 @@ mvn exec:java
 | 2026-11-17 | Jump Game II | Greedy |
 | 2026-11-18 | Gas Station | Greedy |
 | 2026-11-19 | Partition Labels | Greedy |
+| 2026-11-19 | Non-overlapping Intervals | Greedy, Intervals |
