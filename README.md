@@ -148,3 +148,4 @@ mvn exec:java
 | 2026-11-23 | Insert Interval | Intervals |
 | 2026-11-24 | Interval List Intersections | Intervals, Two Pointers |
 | 2026-11-24 | Meeting Rooms II | Intervals, Sweep Line |
+| 2026-11-25 | Implement Trie (Prefix Tree) | Trie |
