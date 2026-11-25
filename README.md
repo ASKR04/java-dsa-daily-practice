@@ -147,3 +147,4 @@ mvn exec:java
 | 2026-11-20 | Merge Intervals | Intervals |
 | 2026-11-23 | Insert Interval | Intervals |
 | 2026-11-24 | Interval List Intersections | Intervals, Two Pointers |
+| 2026-11-24 | Meeting Rooms II | Intervals, Sweep Line |
